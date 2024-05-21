@@ -1,0 +1,5 @@
+#ignorar archivo .env
+.env
+
+#ignorar capreta node_modules
+#node_modules/
